@@ -32,7 +32,7 @@
     "jasmine-core": "^3.7.1",
     "jasmine-ts-console-reporter": "^3.1.1",
     "jsdom": "^16.5.3",
-    "karma": "^6.3.2",
+    "karma": "^6.4.4",
     "karma-chrome-launcher": "^3.1.0",
     "karma-cli": "^2.0.0",
     "karma-detect-browsers": "^2.3.3",
@@ -40,7 +40,7 @@
     "karma-jasmine": "^4.0.1",
     "karma-jasmine-html-reporter": "^1.5.4",
     "karma-safari-launcher": "^1.0.0",
-    "karma-webpack": "^4.0.2",
+    "karma-webpack": "^5.0.1",
     "nodemon": "^2.0.7",
     "rimraf": "^3.0.2",
     "ts-loader": "^8.1.0",
@@ -49,7 +49,7 @@
     "typemoq": "^2.1.0",
     "typescript": "4.1.5",
     "typescript-transform-paths": "^2.2.3",
-    "webpack": "^4.46.0"
+    "webpack": "^5.105.2"
   },
   "dependencies": {
     "@bitwarden/jslib-angular": "file:angular",
